@@ -18,6 +18,7 @@
 Disease prevention is one key role of public health in addition to curative measures. Globally, vaccination is one of the public health departments' measures used to prevent infectious disease. This is because vaccines provide protection to individuals through immunity and the community at large through herd immunity. With this, little is known on how factors such as socioeconomic, behavioral, demographics, opinions on risks of illness and vaccines effectiveness and behavior towards mitigating tranmission influence the uptake of vaccines. 
 Understanding how these factors influence the uptake of the vaccines can help the policy makers formulates effective policies aimed at increase of the uptake of the vaccines. The manufacturers will also gain insight into the total number of the vaccines to manufacture incases of the pandemics.
 
+
 ## **General Objective**
 
 To understand which factors influence the uptake of the seasonal flu vaccine.
