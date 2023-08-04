@@ -8,7 +8,7 @@
 5. Felix Awino
 6. Steven Kalungu
 7. Tobias Ng'ong'a 
-![vaccine_icon](images/vaccine_icon.png)
+![vaccine_icon](images/vaccine_icon.jpg)
 # **Introduction**
 
 ## **Business Understanding**
